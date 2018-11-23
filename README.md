@@ -1,2 +1,2 @@
-# sododx.github.io
+# blog.sododx.com
 my web site
